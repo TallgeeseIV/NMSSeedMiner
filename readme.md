@@ -73,7 +73,7 @@ On launch the application will warn you if you have not downloaded the nmssaveto
 
 	***Screenshot Path:***
 
-		The full path to the intended destination of your generated seed shots.
+		The full path to the intended destination of your generated seed screenshots.
 
  - ***FileType:***
 		
