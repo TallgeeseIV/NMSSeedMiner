@@ -2,7 +2,7 @@
 --------------------------------------- by TallgeeseIV ---------------------------------------
 
 
----------------------------------------- Instructions ----------------------------------------
+---------------------------------------- Instructions -----------------------------------------
 
 1.)		Backup ALL files from your No Man's Sky save game directory, located at 
 		"C:\Users\%UserName%\AppData\Roaming\HelloGames\NMS\%Your_Unique_ID_Folder%"
