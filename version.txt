@@ -1,0 +1,7 @@
+v5.7
+
+------
+
+Change List:
+
+ - Added auto update check.
