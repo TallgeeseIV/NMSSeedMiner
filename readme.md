@@ -140,5 +140,5 @@ On launch the application will warn you if you have not downloaded the nmssaveto
 	MasterFocus 	  - GDI+ Image Search Function
 	Jess Harpur 	  - Zip Extraction Function
 	Matthew Humphrey  - nmssavetool
-	Goatfungus		  - NMS Save Editor
-	Hello Games		  - NO MAN'S SKY
+	Goatfungus	  - NMS Save Editor
+	Hello Games	  - NO MAN'S SKY
