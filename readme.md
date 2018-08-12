@@ -124,11 +124,11 @@ On launch the application will warn you if you have not downloaded the nmssaveto
 			The ship TYPE (Fighter, Hauler, etc.) will not be changed by this application,
 			and can also be set by the Save Editor.
 
-2.	This application was designed to run under default game settings. While I have tested many different configurations, there are bound to be some that I did not account for.
+2. This application was designed to run under default game settings. While I have tested many different configurations, there are bound to be some that I did not account for.
 
-3.	Time between screenshots is almost entirely based on your load times. As such, it is recommended to have the game installed to your fastest hard drive.
+3. Time between screenshots is almost entirely based on your load times. As such, it is recommended to have the game installed to your fastest hard drive.
 
-4.	This application uses timeout paramaters in case something goes wrong, such as the game freezing. By default these times are 3 minutes for launching the game, and 1 minute for loading a save file while already in game. In the event that either task takes longer than the timeout parameters, the process will be ended and the game will be relaunched automatically.
+4. This application uses timeout paramaters in case something goes wrong, such as the game freezing. By default these times are 3 minutes for launching the game, and 1 minute for loading a save file while already in game. In the event that either task takes longer than the timeout parameters, the process will be ended and the game will be relaunched automatically.
 		
 			If the need arises to adjust these parameters, they can be changed by opening
 			config.ini with a text editor. Timing variables are in seconds.
