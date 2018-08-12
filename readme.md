@@ -48,7 +48,7 @@
 
  9. This application is designed to load only the most recent save in slot 1. Make sure that your intended seed mining save file is the most recent and occupies slot 1.
 
- 10. When you are done. Simply backup your seed mining saves and restore your original saves. Launch Goatfungus' Save Editor, and change your ship seed to the generated seed of your choosing. Save, and reload your game.
+ 10. When you are done, simply backup your seed mining saves and restore your original saves. Launch Goatfungus' Save Editor, and change your ship seed to the generated seed of your choosing. Save, and reload your game.
 		
 	NOTE:   Included in this download is a zip folder labeled "save.zip" containing
 		the required files to load my save file for taking ship seed screenshots.
