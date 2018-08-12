@@ -16,10 +16,10 @@
 ## Creating Your Save  File
 
 	Starship Seeds 	- Please read all instructions For creating your own save. If you'd prefer
-					  not to create your own, an optimal save is included. Skip to NOTE.
+			  not to create your own, an optimal save is included. Skip to NOTE.
 	
 	MultiTool Seeds - Please ensure that the MultiTool menu was the last menu
-					  visited before saving, then skip to: 9.)
+			  visited before saving, then skip to: 9.)
 	
 	Freighter Seeds - Not yet fully implemented.
 
@@ -51,9 +51,9 @@
  10. When you are done. Simply backup your seed mining saves and restore your original saves. Launch Goatfungus' Save Editor, and change your ship seed to the generated seed of your choosing. Save, and reload your game.
 		
 	NOTE:   Included in this download is a zip folder labeled "save.zip" containing
-			the required files to load my save file for taking ship seed screenshots.
-			To use it, extract it to your save file directory after backing up your
-			original save files.
+		the required files to load my save file for taking ship seed screenshots.
+		To use it, extract it to your save file directory after backing up your
+		original save files.
 
 
 ## Configuration Options
@@ -92,25 +92,25 @@ On launch the application will warn you if you have not downloaded the nmssaveto
 
  - ***ClearShot:***
 
-			The "ClearShot" mod forces the game to run in 720p windowed mode, disables
-			the hud and crosshairs, several screen and weather visual effects,	makes
-			mouse clicks instant, and enables certain options to speed up loading and
-			the process in general. It is NOT recommended to run other mods with
-			ClearShot due to the HIGH probability of conflicts with other mods.
+		The "ClearShot" mod forces the game to run in 720p windowed mode, disables
+		the hud and crosshairs, several screen and weather visual effects,	makes
+		mouse clicks instant, and enables certain options to speed up loading and
+		the process in general. It is NOT recommended to run other mods with
+		ClearShot due to the HIGH probability of conflicts with other mods.
 			
-			The application will prompt you on how to handle this.
+		The application will prompt you on how to handle this.
 			
-			ClearShot is NOT OPTIONAL, as the script will not perform correctly without it.
+		ClearShot is NOT OPTIONAL, as the script will not perform correctly without it.
 			
-			Do NOT install Clear Shot until AFTER you have framed your save, as the lack of
-			hud elements and instant click make that process more difficult.
+		Do NOT install Clear Shot until AFTER you have framed your save, as the lack of
+		hud elements and instant click make that process more difficult.
 
  - ***Mode:***
 
 		Seed Generation Mode:
 		- "Ship" will generate new ship seeds.
 		- "MultiTool" will generate new multitool seeds and automatically open the menu
-			before capturing an image.
+		   before capturing an image.
 		-  Freighters are not yet fully implemented and currently behave similarly to ship seeds.
 
 ## External Tools
