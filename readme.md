@@ -28,7 +28,7 @@
 		1a. Recommended -> Start a NEW SAVE in Creative Mode. Do NOT use your main save!
 
 		1b. Recommended -> Find a Moon with NO atmosphere. This prevents cloud shadows
-		    from affecting shots.
+		    		   from affecting shots.
 
 		1c. Recommended -> Build a Base Computer and set up a "Photography Studio".
 
