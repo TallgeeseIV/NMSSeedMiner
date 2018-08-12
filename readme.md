@@ -58,7 +58,7 @@
 
 ## Configuration Options
 
-On launch the application will warn you if you have not downloaded the nmssavetool *by Matthew Humphrey*, and will prompt you to automatically download and install it. This	application is required for new seed generation. [Visit his	GitHub](https://github.com/matthew-humphrey/nmssavetool/releases/tag/v2.0.1.6-beta-4) to download manually. Simply extract the archive to the same directory as NMSSeedMiner_vX.X.exe, making sure to leave the nmssavetool .exe and components in their original folder, "nmssavetool-2.0.1.6-beta-4".
+On launch the application will warn you if you have not downloaded the nmssavetool *by Matthew Humphrey*, and will prompt you to automatically download and install it. This	application is required for new seed generation. Alternatively, you may [Visit his GitHub](https://github.com/matthew-humphrey/nmssavetool/releases/tag/v2.0.1.6-beta-4) to download manually. Simply extract the archive to the same directory as NMSSeedMiner_vX.X.exe, making sure to leave the nmssavetool .exe and components in their original folder, "nmssavetool-2.0.1.6-beta-4".
 
 - ***NMS Game Path:***
 
