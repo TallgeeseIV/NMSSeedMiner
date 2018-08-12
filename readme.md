@@ -71,7 +71,7 @@ On launch the application will warn you if you have not downloaded the nmssaveto
 		
 		"C:\Users\%UserName%\AppData\Roaming\HelloGames\NMS\%Your_Unique_ID_Folder%"
 
-	***Screenshot Path:***
+ - ***Screenshot Path:***
 
 		The full path to the intended destination of your generated seed screenshots.
 
