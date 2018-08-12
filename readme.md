@@ -38,7 +38,7 @@
 
  4. As you look back up, you should notice that the activate prompt stays visible for a small amount of time after you've looked away.
 
- 5. Look back down, and press your activate button as you quickly look up, trying to frame your ship as well as possible. The goal is to have the save point not "activate" until you are looking at your ship.
+ 5. Look back down, and press your activate key as you quickly look up, trying to frame your ship as well as possible. The goal is to have the save point not "activate" until you are looking at your ship.
 
  6. Continue doing this until you get a properly framed shot. You can reload your save to test this and then resave as many times as you need to.
 
