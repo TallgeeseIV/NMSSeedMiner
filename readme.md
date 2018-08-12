@@ -20,10 +20,10 @@
 ------------------------------------------- Saving -------------------------------------------
 
 	Starship Seeds 	- Please read all instructions For creating your own save. If you'd prefer
-					  not to create your own, an optimal save is included. Skip to Note 3.
+			  not to create your own, an optimal save is included. Skip to Note 3.
 	
 	MultiTool Seeds - Please ensure that the MultiTool menu was the last menu
-					  visited before saving, then skip to: 9.)
+			  visited before saving, then skip to: 9.)
 	
 	Freighter Seeds - Not yet fully implemented.
 
@@ -33,7 +33,7 @@
    1a.) Recommended -> Start a NEW SAVE in Creative Mode. Do NOT use your main save!
 
    1b.) Recommended -> Find a Moon with NO atmosphere. This prevents cloud shadows
-		from affecting shots.
+		       from affecting shots.
 
    1c.) Recommended -> Build a Base Computer and set up a "Photography Studio".
 
@@ -42,58 +42,58 @@
 3.) 	Stand on it and look down at it.
 
 4.) 	As you look back up, you should notice that the activate prompt stays visible for
-		a time.
+	a time.
 
 5.) 	Look back down, and press your activate button as you quickly look up, trying to
-		frame your ship as well as possible. The goal is to have the save point not
-		"activate" until you are looking at your ship.
+	frame your ship as well as possible. The goal is to have the save point not
+	"activate" until you are looking at your ship.
 
 6.) 	Continue doing this until you get a properly framed shot. You can reload your save
-		to test this and then resave as many times as you need to.
+	to test this and then resave as many times as you need to.
 
 7.) 	Make sure that the Time of Day, Weather, and Lighting are optimal before you save!
 
 8.) 	Keep in mind that generated ships may be slightly larger than your current ship and
-		try to allow space for wider wings, longer cockpits, etc.
+	try to allow space for wider wings, longer cockpits, etc.
 
 9.) 	This application is designed to load only the most recent save in slot 1. Make sure
-		that your intended seed mining save file is the most recent and occupies slot 1.
+	that your intended seed mining save file is the most recent and occupies slot 1.
 
 	NOTE 1: This process will need to be performed again after every manual save, before
-		    seed mining.
+		seed mining.
 
 	NOTE 2: The ship TYPE (Fighter, Hauler, etc.) will not be changed by this application,
-		    and can also be set by the Save Editor.
+		and can also be set by the Save Editor.
 
 10.)	When you are done. Simply backup your seed mining saves and restore your original
-		saves. Launch Goatfungus' Save Editor, and change your ship seed to the generated
-		seed of your choosing. Save, and reload your game.
+	saves. Launch Goatfungus' Save Editor, and change your ship seed to the generated
+	seed of your choosing. Save, and reload your game.
 		
 	NOTE 3: Included in this download is a zip folder labled "save.zip" containing the
-			required files to load my save file for taking ship seed screenshots. To use it,
-			extract it to your save file directory after backing up your original save files.
+		required files to load my save file for taking ship seed screenshots. To use it,
+		extract it to your save file directory after backing up your original save files.
 
 
 ------------------------------------ Configuration Options -----------------------------------
 
 	NOTE 4: On launch the application will warn you if you have not downloaded the nmssavetool
-		    by Matthew Humphrey, and will prompt you to automatically download and install it.
-		    This application is required for new seed generation. Visit the following url for
-		    manual downloading and installation:
+		by Matthew Humphrey, and will prompt you to automatically download and install it.
+		This application is required for new seed generation. Visit the following url for
+		manual downloading and installation:
 
-		    https://github.com/matthew-humphrey/nmssavetool/releases/download/v2.0.1.6-beta-4/
+		https://github.com/matthew-humphrey/nmssavetool/releases/download/v2.0.1.6-beta-4/
 
-		    Simply extract the archive to the same directory as NMSSeedMiner_vX.X.exe. Leave
-		    the nmssavetool .exe and components in their original folder,
-		    "nmssavetool-2.0.1.6-beta-4".
+		Simply extract the archive to the same directory as NMSSeedMiner_vX.X.exe. Leave
+		the nmssavetool .exe and components in their original folder,
+		"nmssavetool-2.0.1.6-beta-4".
 
 
 NMS Game Path:			The full path to your No Man's Sky installation directory.
-						Pressing default will auto-fill this with the Steam or GoG path
-						if detected on your system.
+				Pressing default will auto-fill this with the Steam or GoG path
+				if detected on your system.
 
 NMS Save Path:			The full path to your No Man's Sky save file directory.
-						By default this is located in:
+				By default this is located in:
 
 				"C:\Users\%UserName%\AppData\Roaming\HelloGames\NMS\%Your_Unique_ID_Folder%"
 
